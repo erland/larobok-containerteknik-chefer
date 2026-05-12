@@ -1,0 +1,33 @@
+title: "Containerteknik för chefer i offentlig sektor"
+subtitle: "Att leda förändringen från manuell IT-drift till automatiserade, säkrare och mer förvaltningsbara plattformar"
+author: "Erland Lindmark"
+language: "sv"
+difficulty: "basic"
+audience: "Chefer och beslutsfattare i statlig myndighet"
+book_type: "textbook"
+edition: "1"
+version: "1.5"
+date: "2026-05-11"
+rights: "All rights reserved"
+publisher: ""
+cover_image: ""
+chapters:
+  - chapters/01-fran-personberoende-drift-till-styrbar-leverans.md
+  - chapters/02-vad-en-container-ar-utan-att-borja-med-tekniken.md
+  - chapters/03-fran-servrar-till-plattformar.md
+  - chapters/04-podman-kubernetes-och-andra-delar-av-ekosystemet.md
+  - chapters/05-images-registries-och-sparbarhet.md
+  - chapters/06-automation-pipelines-och-vagen-till-produktion.md
+  - chapters/07-hur-utvecklingsarbetet-forandras.md
+  - chapters/08-hur-testarbetet-forandras.md
+  - chapters/09-hur-forvaltningen-forandras.md
+  - chapters/10-hur-driften-forandras.md
+  - chapters/11-sakerhet-regelefterlevnad-och-kontroll.md
+  - chapters/12-roller-ansvar-och-organisation.md
+  - chapters/13-upphandling-leverantorer-och-kravstallning.md
+  - chapters/14-fardplanen-fran-nulage-till-fungerande-containerplattform.md
+exports:
+  epub: true
+  docx: true
+  pdf: true
+  markdown: true
